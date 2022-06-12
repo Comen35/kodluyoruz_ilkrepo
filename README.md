@@ -6,6 +6,11 @@ Bu repo [Kodluyoruz]( https://courses.kodluyoruz.org/?gclid=EAIaIQobChMIiuunyu2o
 ---
 Öncelikle projeyi clonelayın.
 
+```
+git clone https://github.com/Comen35/kodluyoruz_ilkrepo.git
+
+```
+
 
 ## Usage
 ---
